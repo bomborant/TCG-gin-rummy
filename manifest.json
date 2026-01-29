@@ -1,0 +1,16 @@
+{
+  "_schema": {
+    "version": 1,
+    "engine_version": "0.1.0"
+  },
+  "id": "gin_rummy",
+  "title": "Gin Rummy",
+  "version": "1.0.0",
+  "author": "Bomborant",
+  "description": "Gin Rummy game demo",
+  "resources": {
+    "rules_url": "rules.lua",
+    "cards_url": "cards.json",
+    "assets_url": "assets.json"
+  }
+}
